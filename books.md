@@ -13,19 +13,19 @@ permalink: /books/
 <span id="price-of-playing-god">Zomoeba: The Price of Playing God</span>
 </div>
 
-<p>When microbiologist Dr. David Hoover’s son contracts a rare, brain-eating amoeba, he makes a desperate choice:
+When microbiologist Dr. David Hoover’s son contracts a rare, brain-eating amoeba, he makes a desperate choice:
 repurpose his Alzheimer’s research to engineer a neuro-regenerative organism. The result—**Zomoeba**—doesn’t just
-heal brain tissue; it integrates with it, creating a resilient, predatory hybrid life form.</p>
+heal brain tissue; it integrates with it, creating a resilient, predatory hybrid life form.
 
-<p>When twenty-year-old Emily Rogers is infected after swimming in New Jersey’s Rancocas Creek, Hoover sees his chance
+When twenty-year-old Emily Rogers is infected after swimming in New Jersey’s Rancocas Creek, Hoover sees his chance
 and secretly uses her as his first human test subject. Emily wakes, even speaks—but what’s animating her isn’t
 recovery. Inside Cooper Hospital in Camden, the infection jumps from room to room through blood and bites, turning
-patients and staff into “remnants”—driven, mobile, and no longer fully human.</p>
+patients and staff into “remnants”—driven, mobile, and no longer fully human.
 
-<p>As the hospital and surrounding riverfront towns collapse into chaos, Hoover’s wife Elizabeth, nurse Alicia Reyes,
+As the hospital and surrounding riverfront towns collapse into chaos, Hoover’s wife Elizabeth, nurse Alicia Reyes,
 and a handful of survivors must fight their way out and decide how far they’re willing to go to stop what he
 started. Any cure they create may also alter the future of human evolution—and not everyone wants that future to be
-stopped.</p>
+stopped.
 
 ---
 
@@ -34,10 +34,10 @@ stopped.</p>
 <span id="evolution">Zomoeba: Evolution</span>
 </div>
 
-<p>Years after the Zomoeba outbreak is contained and a cure is released across the world, humanity is still rebuilding.
+Years after the Zomoeba outbreak is contained and a cure is released across the world, humanity is still rebuilding.
 The immediate crisis has passed, but the cost was higher than anyone imagined. In a small post-collapse community
 centered on Ivy Place in southern New Jersey, a new generation is coming of age—children born in the wake of
-Zomoeba and the cure.</P>
+Zomoeba and the cure.
 
 <p>Some of them, quietly labeled **Cognos**, aren’t quite like the others. Cade Stockton and other Cognos children show
 heightened pattern recognition, strange neurological sensitivity, and the ability to “resonate” with one another in
