@@ -1,14 +1,14 @@
 :root {
-  --bg: #040712;
-  --bg-alt: #070b18;
-  --accent: #24d1c0;
+  --bg: #ffffff;                 /* main background */
+  --bg-alt: #f5f7fa;             /* light alternate background */
+  --accent: #24d1c0;             /* keep your teal */
   --accent-soft: rgba(36, 209, 192, 0.15);
-  --accent-strong: #77ff88;
-  --text: #f5f7ff;
-  --muted: #a4afc8;
-  --border: #1b2338;
-  --danger: #ff4d6a;
-  --shadow-soft: 0 18px 40px rgba(0, 0, 0, 0.55);
+  --accent-strong: #00aa99;      /* darker teal for contrast on white */
+  --text: #000000;               /* main text is now black */
+  --muted: #555555;              /* light gray → medium gray */
+  --border: #cccccc;             /* soft border instead of dark */
+  --danger: #d1192a;
+  --shadow-soft: 0 4px 12px rgba(0,0,0,0.08);  /* lighter shadows */
   --radius-lg: 1.5rem;
   --radius-md: 1rem;
   --radius-sm: 0.5rem;
@@ -25,7 +25,7 @@ html,
 body {
   margin: 0;
   padding: 0;
-  background: radial-gradient(circle at top, #141b32 0, #030512 45%, #000 100%);
+  background: var(--bg);   /* switched from dark gradient */
   color: var(--text);
   font-family: var(--font-main);
   line-height: 1.6;
@@ -45,7 +45,7 @@ body {
 }
 
 .section-dark {
-  background: linear-gradient(135deg, #050814, #02030a);
+  background: var(--bg-alt);   /* light alt background */
 }
 
 /* Header / Nav */
@@ -54,9 +54,9 @@ body {
   position: sticky;
   top: 0;
   z-index: 999;
-  background: rgba(3, 5, 18, 0.96);
+  background: rgba(255, 255, 255, 0.8);  /* light translucent */
   backdrop-filter: blur(16px);
-  border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+  border-bottom: 1px solid #ddd;
 }
 
 .header-inner {
@@ -118,6 +118,7 @@ body {
 .hero-text h1 {
   font-size: 2.6rem;
   margin: 0 0 1rem;
+  color: var(--text);
 }
 
 .hero-tagline {
@@ -158,13 +159,13 @@ body {
 
 .btn.primary {
   background: radial-gradient(circle at top left, var(--accent-strong), var(--accent));
-  color: #020308;
+  color: #ffffff;
 }
 
 .btn.ghost {
-  background: rgba(7, 10, 24, 0.9);
+  background: rgba(255,255,255,0.9);
   color: var(--accent);
-  border-color: var(--accent-soft);
+  border: 1px solid var(--accent-soft);
 }
 
 .btn:hover {
@@ -178,15 +179,14 @@ body {
   justify-content: center;
 }
 
-/* This is the actual book-cover image */
 .book-cover-image {
   display: block;
-  max-width: 190px;  /* desktop & laptop max size */
+  max-width: 190px;
   width: 100%;
   height: auto;
   border-radius: 1rem;
-  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.6);
-  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 10px 28px rgba(0,0,0,0.15); /* lighter shadow */
+  border: 1px solid rgba(0,0,0,0.05);
 }
 
 /* Cards */
@@ -198,16 +198,17 @@ body {
 }
 
 .card {
-  background: rgba(4, 7, 21, 0.95);
+  background: #ffffff;
   border-radius: var(--radius-md);
   border: 1px solid var(--border);
   padding: 1.4rem 1.5rem;
-  box-shadow: 0 14px 30px rgba(0, 0, 0, 0.6);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.08); /* light */
 }
 
 .card h3 {
   margin-top: 0;
   margin-bottom: 0.6rem;
+  color: var(--text);
 }
 
 .card p {
@@ -234,6 +235,7 @@ h2,
 h3,
 h4 {
   line-height: 1.2;
+  color: var(--text);
 }
 
 h1 {
@@ -243,6 +245,7 @@ h1 {
 
 p {
   margin-top: 0.4rem;
+  color: var(--text);
 }
 
 .lead {
@@ -254,13 +257,13 @@ p {
 
 .books-list h3 {
   margin-top: 2rem;
+  color: var(--text);
 }
 
 .books-list h3:first-of-type {
   margin-top: 1rem;
 }
 
-/* book header block (merged) */
 .book-header {
   display: flex;
   align-items: center;
@@ -273,15 +276,13 @@ p {
   width: 100px;
   height: auto;
   border-radius: 6px;
-  box-shadow: 0 0 8px rgba(0,0,0,0.4);
+  box-shadow: 0 0 8px rgba(0,0,0,0.12);
 }
 
-/* Paragraph spacing inside books list */
 .books-list p {
-  margin-bottom: 12px;   /* standard spacing between paragraphs */
+  margin-bottom: 12px;
 }
 
-/* Direct-child paragraphs get the big bottom gap */
 .books-list > p {
   margin-bottom: 100px;
 }
@@ -290,8 +291,8 @@ p {
 
 .site-footer {
   padding: 1.8rem 0 2rem;
-  border-top: 1px solid rgba(255, 255, 255, 0.04);
-  background: #020309;
+  border-top: 1px solid #ddd;
+  background: var(--bg-alt);
 }
 
 .footer-inner {
@@ -314,7 +315,7 @@ p {
   }
 
   .book-cover-image {
-    max-width: 160px; /* a bit smaller on tablets/phones */
+    max-width: 160px;
   }
 
   .site-nav a {
@@ -329,7 +330,6 @@ p {
     gap: 0.4rem;
   }
 
-  /* tidy nav when stacked */
   .site-nav {
     display: flex;
     flex-wrap: wrap;
@@ -350,7 +350,7 @@ p {
 }
 
 .book-header span {
-  font-weight: 700;        /* makes title bold */
-  font-size: 1.4rem;       /* increases size slightly */
-  color: var(--text);      /* keeps it consistent with your theme */
+  font-weight: 700;
+  font-size: 1.4rem;
+  color: var(--text);
 }
