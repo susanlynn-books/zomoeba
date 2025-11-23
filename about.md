@@ -1,0 +1,29 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
+<section class="section section-dark">
+  <div class="container">
+    <h2>About Susan Lynn</h2>
+    <p>
+     Susan Lynn (pen name for Susan Stockl) grew up—and still lives—in a small riverfront town near where Zomoëba takes place. A former IT professional and nonprofit director, she first discovered her love of writing through grant proposals (because what’s more thrilling than justifying a budget in under 500 words?).</p>
+
+<p>Inspired by her mother’s fascination with science and nature, she blended that curiosity with a lifelong love of speculative and medical thrillers. "Zomoëba: The Price of Playing God" began with a single question: What if the environment shifted just enough to let something ancient slip through?</p>
+
+<p>When she’s not writing, Susan enjoys time with her children and grandchildren—quietly passing on the same wonder she once learned.
+
+    </p>
+ <div class="hero-actions">
+        <a href="{{ "/books/" | relative_url }}" class="btn primary">Explore the Books</a>
+  </div>
+
+  </div>
+</section>
+
+
+     
+
+
+

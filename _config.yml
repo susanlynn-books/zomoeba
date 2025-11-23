@@ -1,0 +1,14 @@
+title: "Zomoeba"
+tagline: "Speculative science thrillers by Susan Lynn"
+description: "Official site for the Zomoeba series and related works."
+baseurl: ""
+url: ""
+
+author:
+  name: "Susan Lynn"
+  bio: "Author of the Zomoeba trilogy and The Out of Body Club."
+  email: "youremail@example.com"
+
+markdown: kramdown
+theme: null
+plugins: []
