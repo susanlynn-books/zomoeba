@@ -17,7 +17,7 @@ permalink: /books/
 repurpose his Alzheimer’s research to engineer a neuro-regenerative organism. The result—**Zomoeba**—doesn’t just
 heal brain tissue; it integrates with it, creating a resilient, predatory hybrid life form.</p>
 
-<p>When twenty-year-old Emily Rogers is infected after swimming in New Jersey’s Rancocas Creek, Hoover sees his chance
+<p>When twenty-year-old Emily Rogers is infected after swimming in a southern New Jersey Creek, Hoover sees his chance
 and secretly uses her as his first human test subject. Emily wakes, even speaks—but what’s animating her isn’t
 recovery. Inside Cooper Hospital in Camden, the infection jumps from room to room through blood and bites, turning
 patients and staff into “remnants”—driven, mobile, and no longer fully human.</P>
@@ -39,10 +39,7 @@ The immediate crisis has passed, but the cost was higher than anyone imagined. I
 centered on Ivy Place in southern New Jersey, a new generation is coming of age—children born in the wake of
 Zomoeba and the cure.</P>
 
-<p>Some of them, quietly labeled **Cognos**, aren’t quite like the others. Cade Stockton and other Cognos children show
-heightened pattern recognition, strange neurological sensitivity, and the ability to “resonate” with one another in
-ways science can’t yet explain. While their families try to protect them, governments, corporations, and religious
-leaders argue over what they represent: a threat, a miracle, or the first step in a new branch of humanity.</P>
+<p>Some of them—formally classified by scientists as Homo zomoebis but known everywhere else simply as Cognos—aren’t quite like the others. Cade Stockton and other Cognos children show heightened pattern recognition, unusual neurological sensitivity, and the ability to “resonate” with one another in ways science can’t yet explain. While their families try to protect them, governments, corporations, and religious leaders argue over what they represent: a threat, a miracle, or the first step in a new branch of humanity.</p>
 
 <p>As anti-Cognos rhetoric spreads and registration laws tighten, secret research programs and corporate interests move
 in the shadows, determined to weaponize what Zomoeba and its cure have created. Cade, Dante, Rose, and their allies
