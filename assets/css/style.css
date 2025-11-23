@@ -1,14 +1,14 @@
 :root {
-  --bg: #ffffff;                 /* main background */
-  --bg-alt: #f5f7fa;             /* light alternate background */
-  --accent: #24d1c0;             /* keep your teal */
-  --accent-soft: rgba(36, 209, 192, 0.15);
-  --accent-strong: #00aa99;      /* darker teal for contrast on white */
-  --text: #000000;               /* main text is now black */
-  --muted: #555555;              /* light gray → medium gray */
-  --border: #cccccc;             /* soft border instead of dark */
+  --bg: #ffffff;                 
+  --bg-alt: #f5f7fa;             
+  --accent: #2BC300;                   
+  --accent-soft: rgba(43,195,0,0.18);
+  --accent-strong: #2BC300;
+  --text: #000000;               
+  --muted: #555555;              
+  --border: #cccccc;             
   --danger: #d1192a;
-  --shadow-soft: 0 4px 12px rgba(0,0,0,0.08);  /* lighter shadows */
+  --shadow-soft: 0 4px 12px rgba(0,0,0,0.08); 
   --radius-lg: 1.5rem;
   --radius-md: 1rem;
   --radius-sm: 0.5rem;
@@ -25,7 +25,7 @@ html,
 body {
   margin: 0;
   padding: 0;
-  background: var(--bg);   /* switched from dark gradient */
+  background: var(--bg);
   color: var(--text);
   font-family: var(--font-main);
   line-height: 1.6;
@@ -45,7 +45,7 @@ body {
 }
 
 .section-dark {
-  background: var(--bg-alt);   /* light alt background */
+  background: var(--bg-alt);
 }
 
 /* Header / Nav */
@@ -54,7 +54,7 @@ body {
   position: sticky;
   top: 0;
   z-index: 999;
-  background: rgba(255, 255, 255, 0.8);  /* light translucent */
+  background: rgba(255,255,255,0.8);
   backdrop-filter: blur(16px);
   border-bottom: 1px solid #ddd;
 }
@@ -185,7 +185,7 @@ body {
   width: 100%;
   height: auto;
   border-radius: 1rem;
-  box-shadow: 0 10px 28px rgba(0,0,0,0.15); /* lighter shadow */
+  box-shadow: 0 10px 28px rgba(0,0,0,0.15);
   border: 1px solid rgba(0,0,0,0.05);
 }
 
@@ -202,7 +202,7 @@ body {
   border-radius: var(--radius-md);
   border: 1px solid var(--border);
   padding: 1.4rem 1.5rem;
-  box-shadow: 0 6px 16px rgba(0,0,0,0.08); /* light */
+  box-shadow: 0 6px 16px rgba(0,0,0,0.08);
 }
 
 .card h3 {
@@ -354,3 +354,4 @@ p {
   font-size: 1.4rem;
   color: var(--text);
 }
+
