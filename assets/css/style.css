@@ -71,20 +71,16 @@ body {
   font-size: 1.3rem;
   letter-spacing: 0.08em;
   text-transform: uppercase;
-  color: var(--accent-strong);   /* changed */
+  color: var(--accent-strong);
   text-decoration: none;
 }
 
 .site-nav a {
   margin-left: 1.5rem;
   font-size: 0.95rem;
-  color: var(--accent-strong);  /* changed */
+  color: var(--accent-strong);
   text-decoration: none;
   position: relative;
-}
-
-.site-nav a:hover {
-  color: #fff; /* or var(--text) */
 }
 
 .site-nav a::after {
@@ -264,6 +260,32 @@ p {
   margin-top: 1rem;
 }
 
+/* book header block (merged) */
+.book-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 60px;
+  margin-bottom: 24px;
+}
+
+.book-cover {
+  width: 100px;
+  height: auto;
+  border-radius: 6px;
+  box-shadow: 0 0 8px rgba(0,0,0,0.4);
+}
+
+/* Paragraph spacing inside books list */
+.books-list p {
+  margin-bottom: 12px;   /* standard spacing between paragraphs */
+}
+
+/* Direct-child paragraphs get the big bottom gap */
+.books-list > p {
+  margin-bottom: 100px;
+}
+
 /* Footer */
 
 .site-footer {
@@ -307,6 +329,17 @@ p {
     gap: 0.4rem;
   }
 
+  /* tidy nav when stacked */
+  .site-nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem;
+  }
+
+  .site-nav a {
+    margin-left: 0;
+  }
+
   .hero {
     padding-top: 3.5rem;
   }
@@ -314,32 +347,6 @@ p {
   .hero-text h1 {
     font-size: 2.1rem;
   }
-}
-
-.book-header {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-}
-
-.book-cover {
-  width: 100px;
-  height: auto;
-  border-radius: 6px;
-  box-shadow: 0 0 8px rgba(0,0,0,0.4);
-}
-
-.book-header {
-  margin-top: 60px;
-  margin-bottom: 24px;
-}
-
-.books-list > p {
-  margin-bottom: 100px;
-}
-
-.books-list p {
-  margin-bottom: 12px;   /* tighten this until you like it */
 }
 
 .book-header span {
