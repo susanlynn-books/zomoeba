@@ -1,5 +1,5 @@
 ---
 layout: home
 title: "Zomoeba Series"
-permalink: /
+permalink: /zomoeba/
 ---
