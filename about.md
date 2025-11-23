@@ -6,7 +6,7 @@ permalink: /about/
 
 <section class="section section-dark">
   <div class="container">
-    <h2>About Susan Lynn</h2>
+    <h2>About Susan Lynn </h2>
     <p>
      Susan Lynn (pen name for Susan Stockl) grew up—and still lives—in a small riverfront town near where Zomoëba takes place. A former IT professional and nonprofit director, she first discovered her love of writing through grant proposals (because what’s more thrilling than justifying a budget in under 500 words?).</p>
 
