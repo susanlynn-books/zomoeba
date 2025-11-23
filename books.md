@@ -14,7 +14,7 @@ permalink: /books/
 </div>
 
 <p>When microbiologist Dr. David Hoover’s son contracts a rare, brain-eating amoeba, he makes a desperate choice:
-repurpose his Alzheimer’s research to engineer a neuro-regenerative organism. The result—**Zomoeba**—doesn’t just
+repurpose his Alzheimer’s research to engineer a neuro-regenerative organism. The result—Zomoeba—doesn’t just
 heal brain tissue; it integrates with it, creating a resilient, predatory hybrid life form.</p>
 
 <p>When twenty-year-old Emily Rogers is infected after swimming in a southern New Jersey Creek, Hoover sees his chance
@@ -57,8 +57,8 @@ are.</P>
 
 <p>Decades after the first outbreak in Camden, Zomoeba’s echoes reach the stars. Off-world settlements and experimental
 terraforming projects on Mars begin to react to the same biological principles that once reshaped human neurology on
-Earth. As **Cognos** children come into their full abilities, they find themselves entangled not only with each other,
-but with emerging **biological AIs** built on the same logic that once drove Zomoeba to adapt and survive.</P>
+Earth. As Cognos children come into their full abilities, they find themselves entangled not only with each other,
+but with emerging biological AIs built on the same logic that once drove Zomoeba to adapt and survive.</P>
 
 <p>On Earth, political movements and corporate remnants struggle to either control or eradicate the Cognos, fearing what
 a distributed, empathic intelligence could mean for old systems of power. On Mars, Dante and others discover that the
@@ -66,7 +66,7 @@ line between pathogen, human, and machine is thinner than anyone expected—and 
 on Earth are still rippling outward.</P>
 
 <p>As crises on two worlds converge, Cade, Dante, Faith, and their families must decide whether Zomoeba’s legacy will
-end in domination, collapse, or a hard-won, fragile kind of **ascension** that allows humanity and its evolved
+end in domination, collapse, or a hard-won, fragile kind of ascension that allows humanity and its evolved
 descendants to move forward together.</P>
 
 
