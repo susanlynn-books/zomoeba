@@ -4,6 +4,10 @@ title: "Books"
 permalink: /books/
 ---
 
+<section class="section section-dark">
+  <div class="container">
+    <h2>Books by Susan Lynn </h2>
+
 <div class="container">
 
 <div class="books-list">
