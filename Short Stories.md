@@ -143,10 +143,6 @@ It only cares that you were here.
 
   </main>
 
-  <footer class="site-footer">
-    <div class="container footer-inner">
-      <p>&copy; 2025 Susan Lynn. All rights reserved.</p>
-    </div>
-  </footer>
+ 
 </body>
 </html>
