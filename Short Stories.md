@@ -8,16 +8,15 @@ permalink: /short stories/
     <section class="hero">
   <div class="container hero-inner">
     <div class="hero-text">
-      <h1>Zomoeba Series</h1>
+      <h1>Published Works</h1>
       <p class="hero-tagline">
-        A speculative science fiction thriller about a bioengineered organism, a flawed cure, and the evolution that follows.
+        Resonancequake
       </p>
       <p class="hero-subtext">
-        Explore the Zomoeba trilogy, from the first outbreak on the Camden waterfront to the far-reaching consequences
-        across generations—and worlds.
+       A speculative short story published in the Flame Tree Fiction Newsletter (September 2025). In a future where lunar research and the subtle fields of cognition intersect, a scientist named Solin detects an unexplained resonance beneath the Moon’s surface. What begins as a curious anomaly leads her to uncover a hidden vault—its sealed contents hinting at preserved children and forgotten experiments that could reshape everything humanity thought it knew about evolution and connection. Dive into this atmospheric blend of science, memory, and discovery. Click the link below to read the story in the newsletter.
       </p>
       <div class="hero-actions">
-        <a href="/zomoeba/books/" class="btn primary">Explore the Books</a>
+        <a href="https://www.flametreepress.com/newsletters/flame-tree-fiction-newsletter-september-2025-moon-fracture/" class="btn primary">Flame Tree Fiction Newsletter</a>
      
       </div>
     </div>
