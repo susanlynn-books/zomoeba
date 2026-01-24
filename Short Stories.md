@@ -136,7 +136,5 @@ permalink: /short stories/
 
 
 
-</main>
-
  
 
