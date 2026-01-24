@@ -27,7 +27,27 @@ permalink: /short stories/
 🔗 Read it in the <a href="https://www.flametreepress.com/newsletters/flame-tree-fiction-newsletter-september-2025-moon-fracture/">Flame Tree Fiction Newsletter</a>
 
 </p>
+<section class="hero">
+  <div class="container hero-inner">
+    <div class="hero-text">
+      <h1>Zomoeba Series</h1>
+      <p class="hero-tagline">
+        A speculative science fiction thriller about a bioengineered organism, a flawed cure, and the evolution that follows.
+      </p>
+      <p class="hero-subtext">
+        Explore the Zomoeba trilogy, from the first outbreak at a hospital in Camden, New Jersey to the far-reaching consequences
+        across generations—and worlds.
+      </p>
+      <div class="hero-actions">
+        <a href="{{ "/zomoeba/books/" | relative_url }}" class="btn primary">Explore the Books</a>
+      </div>
+    </div>
 
+   <div class="hero-cover">
+  <img src="{{ "/zomoeba/assets/images/zomoeba-cover.png" | relative_url }}" alt="Zomoeba Book Cover" class="book-cover-image">
+</div>
+  </div>
+</section>
 ---
 
 ### <div class="book-header">
