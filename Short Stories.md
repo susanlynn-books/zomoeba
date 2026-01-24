@@ -3,28 +3,6 @@ layout: default
 title: "Short Stories"
 permalink: /short stories/
 ---
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Zomoeba Series | Zomoeba Press</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Official site for the Zomoeba series and other works.">
-  <link rel="stylesheet" href="/zomoeba/assets/css/style.css">
-</head>
-<body>
-  <header class="site-header">
-    <div class="container header-inner">
-      <a class="site-title" href="/zomoeba/">Zomoeba Press</a>
-      <nav class="site-nav">
-        <a href="/zomoeba/">Home</a>
-        <a href="/zomoeba/books/">Books</a>
-        <a href="/zomoeba/short stories/">Short Stories</a>
-        <a href="/zomoeba/about/">About</a>
-        <a href="/zomoeba/contact/">Contact</a>
-      </nav>
-    </div>
-  </header>
 
   <main class="site-main">
     <section class="hero">
@@ -40,13 +18,11 @@ permalink: /short stories/
       </p>
       <div class="hero-actions">
         <a href="/zomoeba/books/" class="btn primary">Explore the Books</a>
-        <a href="/zomoeba/about/" class="btn ghost">About the Author</a>
+     
       </div>
     </div>
 
-   <div class="hero-cover">
-  <img src="/assets/images/zomoeba-cover.png" alt="Zomoeba Book Cover" class="book-cover-image">
-</div>
+  
   </div>
 </section>
 
