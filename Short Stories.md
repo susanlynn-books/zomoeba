@@ -19,7 +19,7 @@ permalink: /short stories/
         <a href="https://www.flametreepress.com/newsletters/flame-tree-fiction-newsletter-september-2025-moon-fracture/" class="btn primary">Flame Tree Fiction Newsletter</a>    
       </div>
     </div>
-
+</div>
 </section>
 
 <section class="section section-dark">
