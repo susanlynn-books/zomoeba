@@ -41,36 +41,7 @@ permalink: /short stories/
   </div>
 </section>
 
-<section class="section">
-  <div class="container cards-grid">
-    <article class="card">
-      <h3>Zomoeba: The Price of Playing God</h3>
-      <p>
-        Book One. A brain-eating amoeba, a hospital on the brink, and a cure that may be worse than the infection.
-        The outbreak starts inside Cooper Hospital in Camden, NJ—but it doesn’t stay there for long..
-      </p>
-      <a href="/books/#price-of-playing-god" class="card-link">Read more</a>
-    </article>
 
-    <article class="card">
-      <h3>Zomoeba: Evolution</h3>
-      <p>
-        Book Two. Years after the cure, a new generation begins to show unexpected abilities—Cognos children who
-        may be the future of humanity, or the spark of a new conflict.
-      </p>
-      <a href="/books/#evolution" class="card-link">Read more</a>
-    </article>
-
-    <article class="card">
-      <h3>Zomoeba: Ascension</h3>
-      <p>
-        Book Three. As tensions rise on Earth and beyond, the legacy of Zomoeba reaches Mars, and the line between
-        human, pathogen, and AI begins to blur.
-      </p>
-      <a href="/books/#ascension" class="card-link">Read more</a>
-    </article>
-  </div>
-</section>
 
 <section class="section section-dark">
   <div class="container">
