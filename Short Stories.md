@@ -4,7 +4,7 @@ title: "Short Stories"
 permalink: /short stories/
 ---
 
-  <main class="site-main">
+<main class="site-main">
     <section class="hero">
   <div class="container hero-inner">
     <div class="hero-text">
@@ -25,20 +25,16 @@ permalink: /short stories/
 <section class="section section-dark">
   <div class="container">
     <h1>Short Stories by Susan Lynn</h1>
-       <p>
-      A personal archive of speculative tales, drafts, and reflections on craft, inviting you to wander through imagined futures 
-         and join my writing journey. Check back often for updates and new stories.
-    </p>
+       <p>A personal archive of speculative tales, drafts, and reflections on craft, inviting you to wander through imagined futures 
+         and join my writing journey. Check back often for updates and new stories.</p>
      </div>
 </section>
-
-
 
 <section class="section section-dark">
   <div class="container">
     <h2>Red Dust, Old Echos</h2>
     
-    <p>I am a reader of dust. Time dust, to be exact.</p>
+<p>I am a reader of dust. Time dust, to be exact.</p>
 
 <p>On Earth, that made me useful. On Mars, it made me essential</p>
 
@@ -141,7 +137,7 @@ permalink: /short stories/
   </div>
 </section>
 
-  </main>
+</main>
 
  
 
