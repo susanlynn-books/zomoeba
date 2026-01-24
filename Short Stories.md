@@ -134,8 +134,7 @@ permalink: /short stories/
 
 <p>It only cares that you were here.</p>
 
-  </div>
-</section>
+
 
 </main>
 
