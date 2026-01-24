@@ -24,7 +24,8 @@ permalink: /short stories/
   everything humanity thought it knew about evolution and connection. Dive into this atmospheric blend of 
   science, memory, and discovery.
 
-🔗 Read it in the newsletter: <a href="URL">(https://www.flametreepress.com/newsletters/flame-tree-fiction-newsletter-september-2025-moon-fracture/)</a>
+🔗 Read it in the <a href="https://www.flametreepress.com/newsletters/flame-tree-fiction-newsletter-september-2025-moon-fracture/">Newsletter</a>
+
 </p>
 
 ---
