@@ -5,7 +5,7 @@ permalink: /short stories/
 ---
 
 <main class="site-main">
-    <section class="hero">
+<section class="hero">
   <div class="container hero-inner">
     <div class="hero-text">
       <h1>Published Works</h1>
