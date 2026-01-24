@@ -14,7 +14,7 @@ permalink: /short stories/
 
 ### <div class="book-header">
 <img src="/zomoeba/assets/images/zomoeba-cover.png" alt="Zomoeba: The Price of Playing God Cover" class="book-cover">
-<span id="price-of-playing-god">Zomoeba: The Price of Playing God</span>
+<span id="price-of-playing-god">Resonancequake</span>
 </div>
 
 <p>“Resonancequake” – A speculative short story published in the Flame Tree Fiction Newsletter (September 2025). 
