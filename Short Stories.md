@@ -54,7 +54,7 @@ permalink: /short stories/
 
 <p>Dust remembers. Not metaphorically. Literally. After the cure, time stopped flowing cleanly around us. It began shedding—microscopic fragments of lived moments settling into particulate matter. On Earth, dust is saturated with us. Every footstep leaves a trace. Even our breath settles into it.</p>
 
-<p>Touch dust, and I don’t see images. I enter moments. That’s why they stopped letting me work crime scenes years ago. Too many breakdowns. You can’t un-feel <p>trauma once your nervous system has lived it.</p>
+<p>Touch dust, and I don’t see images. I enter moments. That’s why they stopped letting me work crime scenes years ago. Too many breakdowns. You can’t un-feel trauma once your nervous system has lived it.</p>
 
 <p>Mars, they thought, would be empty enough to be safe.</p>
 
