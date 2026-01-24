@@ -6,7 +6,7 @@ permalink: /short stories/
 
 <section class="section section-dark">
   <div class="container">
-    <h2>Short Stories by Susan Lynn </h2>
+    <h2>Published Works and Short Stories by Susan Lynn </h2>
 
 <div class="container">
 
@@ -14,7 +14,7 @@ permalink: /short stories/
 
 ### <div class="book-header">
 <img src="/zomoeba/assets/images/zomoeba-cover.png" alt="Zomoeba: The Price of Playing God Cover" class="book-cover">
-<span id="price-of-playing-god">Resonancequake</span>
+<span id="price-of-playing-god">Publishsed Works</span>
 </div>
 
 <p>“Resonancequake” – A speculative short story published in the Flame Tree Fiction Newsletter (September 2025). 
@@ -24,7 +24,7 @@ permalink: /short stories/
   everything humanity thought it knew about evolution and connection. Dive into this atmospheric blend of 
   science, memory, and discovery.
 
-🔗 Read it in the <a href="https://www.flametreepress.com/newsletters/flame-tree-fiction-newsletter-september-2025-moon-fracture/">Newsletter</a>
+🔗 Read it in the <a href="https://www.flametreepress.com/newsletters/flame-tree-fiction-newsletter-september-2025-moon-fracture/">Flame Tree Fiction Newsletter</a>
 
 </p>
 
