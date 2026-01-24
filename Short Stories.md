@@ -36,7 +36,7 @@ permalink: /short stories/
     
 <p>I am a reader of dust. Time dust, to be exact.</p>
 
-<p>On Earth, that made me useful. On Mars, it made me essential</p>
+<p>On Earth, that made me useful. On Mars, it made me essential.</p>
 
 <p>The dust here is older than language.</p>
 
