@@ -32,10 +32,10 @@ permalink: /short stories/
 
 ### <div class="book-header">
 <img src="/zomoeba/assets/images/evolution-cover.png" alt="Zomoeba: Evolution Cover" class="book-cover">
-<span id="evolution">Free Short Stories/span>
+<span id="evolution">Free Short Stories</span>
 </div>
 
-<p>Red Dust, Old Echoes by Susan Lynn
+<p>Red Dust, Old Echoes by Susan Lynn</p>
 
 I am a reader of dust. Time dust, to be exact.
 
