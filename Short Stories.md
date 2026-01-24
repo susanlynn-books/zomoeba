@@ -17,19 +17,15 @@ permalink: /short stories/
 <span id="price-of-playing-god">Zomoeba: The Price of Playing God</span>
 </div>
 
-<p>When microbiologist Dr. David Hoover’s son contracts a rare, brain-eating amoeba, he makes a desperate choice:
-repurpose his Alzheimer’s research to engineer a neuro-regenerative organism. The result—Zomoeba—doesn’t just
-heal brain tissue; it integrates with it, creating a resilient, predatory hybrid life form.</p>
+<p>“Resonancequake” – A speculative short story published in the Flame Tree Fiction Newsletter (September 2025). 
+  In a future where lunar research and the subtle fields of cognition intersect, a scientist named Solin detects 
+  an unexplained resonance beneath the Moon’s surface. What begins as a curious anomaly leads her to uncover a 
+  hidden vault—its sealed contents hinting at preserved children and forgotten experiments that could reshape 
+  everything humanity thought it knew about evolution and connection. Dive into this atmospheric blend of 
+  science, memory, and discovery.
 
-<p>When twenty-year-old Emily Rogers is infected after swimming in a southern New Jersey Creek, Hoover sees his chance
-and secretly uses her as his first human test subject. Emily wakes, even speaks—but what’s animating her isn’t
-recovery. Inside Cooper Hospital in Camden, the infection jumps from room to room through blood and bites, turning
-patients and staff into “remnants”—driven, mobile, and no longer fully human.</P>
-
-<p>As the hospital and surrounding riverfront towns collapse into chaos, Hoover’s wife Elizabeth, nurse Alicia Reyes,
-and a handful of survivors must fight their way out and decide how far they’re willing to go to stop what he
-started. Any cure they create may also alter the future of human evolution—and not everyone wants that future to be
-stopped.</P>
+🔗 Read it in the newsletter:
+https://www.flametreepress.com/newsletters/flame-tree-fiction-newsletter-september-2025-moon-fracture/</p>
 
 ---
 
