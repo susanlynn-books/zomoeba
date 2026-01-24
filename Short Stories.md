@@ -6,7 +6,7 @@ permalink: /short stories/
 
 <section class="section section-dark">
   <div class="container">
-    <h2>Books by Susan Lynn </h2>
+    <h2>Short Stories by Susan Lynn </h2>
 
 <div class="container">
 
