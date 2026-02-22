@@ -13,7 +13,7 @@ permalink: /books/
 <div class="books-list">
 
 ### <div class="book-header">
-<img src="/zomoeba/assets/images/zomoeba-cover.png" alt="Zomoeba: The Price of Playing God Cover" class="book-cover">
+<img src="/assets/images/zomoeba-cover.png" alt="Zomoeba: The Price of Playing God Cover" class="book-cover">
 <span id="price-of-playing-god">Zomoeba: The Price of Playing God</span>
 </div>
 
@@ -34,7 +34,7 @@ stopped.</P>
 ---
 
 ### <div class="book-header">
-<img src="/zomoeba/assets/images/evolution-cover.png" alt="Zomoeba: Evolution Cover" class="book-cover">
+<img src="/assets/images/evolution-cover.png" alt="Zomoeba: Evolution Cover" class="book-cover">
 <span id="evolution">Zomoeba: Evolution</span>
 </div>
 
@@ -53,7 +53,7 @@ are.</P>
 ---
 
 ### <div class="book-header">
-<img src="/zomoeba/assets/images/ascension-cover.png" alt="Zomoeba: Ascension Cover" class="book-cover">
+<img src="/assets/images/ascension-cover.png" alt="Zomoeba: Ascension Cover" class="book-cover">
 <span id="ascension">Zomoeba: Ascension</span>
 </div>
 
@@ -77,7 +77,7 @@ descendants to move forward together.</P>
 ---
 
 ### <div class="book-header">
-<img src="/zomoeba/assets/images/outofbodyclub.png" alt="The Out of Body Club" class="book-cover">
+<img src="/assets/images/outofbodyclub.png" alt="The Out of Body Club" class="book-cover">
 <span id="outofbody">The Out of Body Club</span>
 </div>
 
