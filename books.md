@@ -7,11 +7,8 @@ permalink: /books/
 <section class="section section-dark">
   <div class="container">
     <h2>Books by Susan Lynn </h2>
-
 <div class="container">
-
 <div class="books-list">
-
 <span class="hide-hash">###</span> <div class="book-header">
 <img src="/assets/images/zomoeba-cover.png" alt="Zomoeba: The Price of Playing God Cover" class="book-cover">
 <span id="price-of-playing-god">Zomoeba: The Price of Playing God</span>
