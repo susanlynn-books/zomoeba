@@ -50,7 +50,7 @@ in the shadows, determined to weaponize what Zomoeba and its cure have created. 
 must navigate a world where survival depends not only on physical safety, but on who controls the story of what they
 are.</P>
 
----
+
 
 ### <div class="book-header">
 <img src="/assets/images/ascension-cover.png" alt="Zomoeba: Ascension Cover" class="book-cover">
@@ -74,7 +74,7 @@ end in domination, collapse, or a hard-won, fragile kind of ascension that allow
 descendants to move forward together.</P>
 
 
----
+
 
 ### <div class="book-header">
 <img src="/assets/images/outofbodyclub.png" alt="The Out of Body Club" class="book-cover">
