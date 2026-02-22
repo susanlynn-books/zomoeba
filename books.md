@@ -33,7 +33,7 @@ stopped.</P>
 
 
 
-### <div class="book-header">
+<span class="hide-hash">###</span> <div class="book-header">
 <img src="/assets/images/evolution-cover.png" alt="Zomoeba: Evolution Cover" class="book-cover">
 <span id="evolution">Zomoeba: Evolution</span>
 </div>
@@ -52,7 +52,7 @@ are.</P>
 
 
 
-### <div class="book-header">
+<span class="hide-hash">###</span> <div class="book-header">
 <img src="/assets/images/ascension-cover.png" alt="Zomoeba: Ascension Cover" class="book-cover">
 <span id="ascension">Zomoeba: Ascension</span>
 </div>
@@ -76,7 +76,7 @@ descendants to move forward together.</P>
 
 
 
-### <div class="book-header">
+<span class="hide-hash">###</span> <div class="book-header">
 <img src="/assets/images/outofbodyclub.png" alt="The Out of Body Club" class="book-cover">
 <span id="outofbody">The Out of Body Club</span>
 </div>
