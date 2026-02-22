@@ -12,7 +12,7 @@ permalink: /books/
 
 <div class="books-list">
 
-### <div class="book-header">
+<span class="hide-hash">###</span> <div class="book-header">
 <img src="/assets/images/zomoeba-cover.png" alt="Zomoeba: The Price of Playing God Cover" class="book-cover">
 <span id="price-of-playing-god">Zomoeba: The Price of Playing God</span>
 </div>
