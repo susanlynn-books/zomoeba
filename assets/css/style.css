@@ -189,6 +189,16 @@ body {
   border: 1px solid rgba(0,0,0,0.05);
 }
 
+.book-cover-main {
+  display: block;
+  max-width: 250px;
+  width: 100%;
+  height: auto;
+  border-radius: 0rem;
+  box-shadow: 0 0px 0px rgba(0,0,0,0.15);
+  border: 0px solid rgba(0,0,0,0.05);
+}
+
 /* Cards */
 
 .cards-grid {
