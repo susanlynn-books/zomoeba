@@ -23,6 +23,12 @@ permalink: /about/
         <a href="{{ "/books/" | relative_url }}" class="btn primary">Explore the Books</a>
   </div>
 
+<div class="hero-actions">
+        <a href="{{ "amazon.com/author/susanlynn-zomoebapress" }}" class="btn primary">Visit Amazon Authors Page</a>
+  </div>
+
+
+
   </div>
 </section>
 
