@@ -24,7 +24,7 @@ permalink: /about/
   </div>
 
 <div class="hero-actions">
-        <a href="{{ "amazon.com/author/susanlynn-zomoebapress" }}" class="btn primary">Visit Amazon Authors Page</a>
+        <a href="{{ "https://amazon.com/author/susanlynn-zomoebapress" }}" class="btn primary">Visit Amazon Author's Page</a>
   </div>
 
 
