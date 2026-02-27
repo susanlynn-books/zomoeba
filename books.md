@@ -91,7 +91,7 @@ descendants to move forward together.</P>
 
 <span class="hide-hash">###</span> <div class="book-header">
 <img src="/assets/images/outofbodyclub.jpg" alt="The Out of Body Club" class="book-cover">
-<span id="outofbody">The Out of Body Club</span>
+<span id="outofbody">The Out of Body Club< (Coming Soon)/span>
 </div>
 
 
