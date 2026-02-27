@@ -29,7 +29,10 @@ started. Any cure they create may also alter the future of human evolution—and
 stopped.</P>
 
 <div class="hero-actions">
-        <a href="{{ "https://a.co/d/0dBHuXid" }}" class="btn ghost">Purchase on Amazon</a>
+        <a href="{{ "https://a.co/d/0dBHuXid" }}" class="btn primary">Purchase on Amazon</a>
+</div>
+<div class="hero-actions">
+        <a href="{{ "https://www.amazon.com/dp/B0GQ6FLFTX?binding=kindle_edition&ref_=saga_dp_bnx_dsk_sdp" }}" class="btn ghost">Purchase the Series on Amazon</a>
 </div>
 
 <span class="hide-hash">###</span> <div class="book-header">
@@ -50,7 +53,11 @@ must navigate a world where survival depends not only on physical safety, but on
 are.</P>
 
 <div class="hero-actions">
-        <a href="{{ "https://a.co/d/05mszsY8" }}" class="btn ghost">Purchase on Amazon</a>
+        <a href="{{ "https://a.co/d/05mszsY8" }}" class="btn primary">Purchase on Amazon</a>
+</div>
+
+<div class="hero-actions">
+        <a href="{{ "https://www.amazon.com/dp/B0GQ6FLFTX?binding=kindle_edition&ref_=saga_dp_bnx_dsk_sdp" }}" class="btn ghost">Purchase the Series on Amazon</a>
 </div>
 
 <span class="hide-hash">###</span> <div class="book-header">
