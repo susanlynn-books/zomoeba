@@ -28,6 +28,10 @@ and a handful of survivors must fight their way out and decide how far they’re
 started. Any cure they create may also alter the future of human evolution—and not everyone wants that future to be
 stopped.</P>
 
+<div class="hero-actions">
+        <a href="{{ "https://a.co/d/0dBHuXid" }}" class="btn ghost">Purchase on Amazon</a>
+  </div>
+
 
 
 <span class="hide-hash">###</span> <div class="book-header">
