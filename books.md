@@ -79,7 +79,7 @@ descendants to move forward together.</P>
 </div>
 
 <div class="hero-actions">
-        <a href="{{ "https://www.amazon.com/dp/B0GQ6FLFTX?binding=kindle_edition&ref_=saga_dp_bnx_dsk_sdp" }}" class="btn main">Purchase the Series on Amazon</a>
+        <a href="{{ "https://www.amazon.com/dp/B0GQ6FLFTX?binding=kindle_edition&ref_=saga_dp_bnx_dsk_sdp" }}" class="btn primary">Purchase the Series on Amazon</a>
 </div>
 
 <span class="hide-hash">###</span> <div class="book-header">
