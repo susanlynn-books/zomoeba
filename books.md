@@ -30,9 +30,7 @@ stopped.</P>
 
 <div class="hero-actions">
         <a href="{{ "https://a.co/d/0dBHuXid" }}" class="btn ghost">Purchase on Amazon</a>
-  </div>
-
-
+</div>
 
 <span class="hide-hash">###</span> <div class="book-header">
 <img src="/assets/images/evolution-cover.png" alt="Zomoeba: Evolution Cover" class="book-cover">
@@ -51,7 +49,9 @@ in the shadows, determined to weaponize what Zomoeba and its cure have created. 
 must navigate a world where survival depends not only on physical safety, but on who controls the story of what they
 are.</P>
 
-
+<div class="hero-actions">
+        <a href="{{ "https://a.co/d/05mszsY8" }}" class="btn ghost">Purchase on Amazon</a>
+</div>
 
 <span class="hide-hash">###</span> <div class="book-header">
 <img src="/assets/images/ascension-cover.png" alt="Zomoeba: Ascension Cover" class="book-cover">
@@ -74,7 +74,9 @@ on Earth are still rippling outward.</P>
 end in domination, collapse, or a hard-won, fragile kind of ascension that allows humanity and its evolved
 descendants to move forward together.</P>
 
-
+<div class="hero-actions">
+        <a href="{{ "https://a.co/d/0fnJzg6W" }}" class="btn ghost">Purchase on Amazon</a>
+</div>
 
 
 <span class="hide-hash">###</span> <div class="book-header">
