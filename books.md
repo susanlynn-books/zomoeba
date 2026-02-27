@@ -78,6 +78,9 @@ descendants to move forward together.</P>
         <a href="{{ "https://a.co/d/0fnJzg6W" }}" class="btn ghost">Purchase on Amazon</a>
 </div>
 
+<div class="hero-actions">
+        <a href="{{ "https://www.amazon.com/dp/B0GQ6FLFTX?binding=kindle_edition&ref_=saga_dp_bnx_dsk_sdp" }}" class="btn main">Purchase the Series on Amazon</a>
+</div>
 
 <span class="hide-hash">###</span> <div class="book-header">
 <img src="/assets/images/outofbodyclub.jpg" alt="The Out of Body Club" class="book-cover">
