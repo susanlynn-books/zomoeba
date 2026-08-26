@@ -376,3 +376,17 @@ p {
   color: white;   /* blends into white background */
 }
 
+.captioned-image {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Horizontally centers the image and text */
+  margin: 0;           /* Removes default browser figure margins */
+}
+
+.image-caption {
+  text-align: center;  /* Centers the text lines */
+  margin-top: 8px;     /* Adds clean spacing below the image */
+  font-size: 0.85rem;  /* Makes caption slightly smaller than body text */
+  color: #555;         /* Softens the text color */
+  font-style: italic;  /* Traditional caption styling */
+}
