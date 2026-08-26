@@ -101,6 +101,8 @@ institutes competing to weaponize consciousness itself. Rooted in real-world OBE
 research, it blends grounded metaphysical speculation with escalating suspense.</p>
 
 <p>Leaving your body is easy. Getting back is the hard part.</P>
+
+<p>(Cover concept shown.)</P>
 <p></p>
 </div>
 
