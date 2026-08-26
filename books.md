@@ -91,11 +91,11 @@ descendants to move forward together.</P>
 
 <span class="hide-hash">###</span> <div class="book-header">
 <img src="/assets/images/outofbodyclub.jpg" alt="The Out of Body Club" class="book-cover">
-<span id="outofbody">The Out of Body Club (Coming Soon)</span>
+<span id="outofbody">The Out of Body Club (Querying Publishers)</span>
 </div>
 
 
-<p>A contemporary speculative thriller about a cognitive psychology professor whose
+<p>A contemporary speculative thriller with dark psychological and supernatural elements about a cognitive psychology professor whose
 spontaneous out-of-body experiences drag her into a hidden network of travelers, mercenaries, and research
 institutes competing to weaponize consciousness itself. Rooted in real-world OBE accounts and psychological
 research, it blends grounded metaphysical speculation with escalating suspense.</p>
